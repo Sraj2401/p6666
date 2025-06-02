@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  name: 'kkpool' # Your self-hosted agent pool name
+  name: 'ktpool' # Your self-hosted agent pool name
 
 steps:
   # Step 1: Checkout the Code from GitHub
